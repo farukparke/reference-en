@@ -1,10 +1,10 @@
+-print("Hello worldl")--impot machine
+impot-time
+pot-machine.ADC(28)
+subCategories: [28 "Variable Scope & Qualifiers" ]
 ---
-title: scope
-categories: [ "Variables" ]
-subCategories: [ "Variable Scope & Qualifiers" ]
----
-
-
+while Trwe:
+print(pot.read 16u())time.sleep(0.1)
 
 
 
